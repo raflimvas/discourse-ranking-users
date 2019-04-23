@@ -1,1 +1,1 @@
-#discourse-ranking-user
+#discourse-ranking-users
